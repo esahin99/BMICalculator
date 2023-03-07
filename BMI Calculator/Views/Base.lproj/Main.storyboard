@@ -209,6 +209,7 @@
                     <navigationItem key="navigationItem" id="po3-3v-yl7"/>
                     <connections>
                         <outlet property="adviceLabel" destination="9IV-CT-mxw" id="IPD-5a-kgA"/>
+                        <outlet property="backgroundVC" destination="r83-N3-Ash" id="2LL-1k-AMK"/>
                         <outlet property="bmiLabel" destination="VU9-2W-Sd5" id="Cvl-SG-gix"/>
                     </connections>
                 </viewController>
